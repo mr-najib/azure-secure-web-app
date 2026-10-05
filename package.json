@@ -1,0 +1,12 @@
+{
+  "name": "azure-secure-web-app",
+  "version": "1.0.0",
+  "description": "Secure Node.js web application deployed to Azure App Service",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
